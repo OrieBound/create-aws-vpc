@@ -96,7 +96,6 @@ terraform destroy
 ## Suggested upload flow
 
 ```bash
-cd /mnt/d/Projects/portfolio/vpc-stack
 git init
 git add .
 git commit -m "Add VPC stack portfolio project (CloudFormation + Terraform)"
